@@ -24,7 +24,12 @@ This [R script](https://github.com/HFAnalyticsLab/domcare_hospital_LBBD/blob/mai
 
 ### Requirements
 
-To be added.
+These scripts were written in R.
+The following R packages (available on CRAN) are needed: 
+* [**lubridate**](https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html)
+* [**data.table**](https://cran.r-project.org/web/packages/data.table/index.html) 
+* [**RColorBrewer**](https://cran.r-project.org/web/packages/RColorBrewer/index.html)
+* [**stringi**](https://cran.r-project.org/web/packages/stringi/index.html)
 
 ## Project team
 
@@ -34,8 +39,6 @@ To be added.
 * Shilpi Begum, Care City
 * Fiona Grimm, Health Foundation
 * Rafi Roganswatson
-
-To be added.
 
 ## License
 This project is licensed under the [MIT License](https://github.com/HFAnalyticsLab/domcare_hospital_LBBD/blob/master/LICENSE).
