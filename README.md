@@ -20,7 +20,7 @@ We used the [Care City Cohort](https://www.carecity.london/component/content/art
 
 As the data used for this analysis is not publically available, the code cannot be used to replicate the analysis on this dataset. However, with modifications the code will be able to be used on similar datasets.
 
-The file [analysis_of_care_city_cohort.R] (https://github.com/HFAnalyticsLab/domcare_hospital_LBBD/blob/main/analysis_of_care_city_cohort.R) joins data from the local authority social care department (including data on domiciliary care) with data about hospital admissions for local residents. It describes the association between hospital discharge and new domiciliary care packages.
+This [R script](https://github.com/HFAnalyticsLab/domcare_hospital_LBBD/blob/main/analysis_of_care_city_cohort.R) joins data from the local authority social care department (including data on domiciliary care) with data about hospital admissions for local residents. It describes the association between hospital discharge and new domiciliary care packages.
 
 ### Requirements
 
