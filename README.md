@@ -1,6 +1,6 @@
 # Domiciliary care use in Barking & Dagenham
 
-#### Project Status: In progress
+#### Project Status: [completed]
 
 ## Project Description
 
@@ -11,6 +11,9 @@ This analysis aims to describe the relationship between hospital admissions and 
 * which groups of hospital patients were at higher risk of requiring domiciliary care after discharge. 
 
 This project is a collaboration between Care City and the Health Foundation. 
+
+## Outputs
+The findings have been published in [BMJ Open](https://bmjopen.bmj.com/content/12/9/e061875.abstract).
 
 ## Data sources
 
@@ -38,7 +41,7 @@ The following R packages (available on CRAN) are needed:
 * John Craig, Care City
 * Shilpi Begum, Care City
 * Fiona Grimm, Health Foundation
-* Rafi Roganswatson
+* Rafi Roganswatson, University Hospitals Sussex
 
 ## License
 This project is licensed under the [MIT License](https://github.com/HFAnalyticsLab/domcare_hospital_LBBD/blob/master/LICENSE).
